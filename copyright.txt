@@ -1,0 +1,11 @@
+Copyright (C) Kais Dukes, 2009-2017. All rights reserved.
+
+No permission is granted to copy, distribute, or create derivative
+works from the contents of this project in any form, in whole or
+in part, without prior written permission.
+
+Any contributors to this project understand and fully accept that
+they have no claims on code or data contributions whatsoever, and
+the original sole copyright over the entire combined work remains.
+
+For distribution requests, please email: kais@kaisdukes.com
