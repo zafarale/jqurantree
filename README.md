@@ -6,6 +6,5 @@ The library contains:
 * an object model for the Quran’s orthography
 * encoders and decoders for converting Arabic text
 * Java classes for searching the text of the Quran
-* The library includes a user guide and API documentation, with examples on using the library to perform basic analysis of Quranic text.
 
-With the exception of the Tanzil Uthmami text, this work is subject to a copyright notice.
+The library includes a user guide and API documentation, with examples on using the library to perform basic analysis of Quranic text. With the exception of the Tanzil Uthmami text, this work is subject to a copyright notice.
