@@ -1,4 +1,4 @@
-Copyright (C) Kais Dukes, 2009-2017. All rights reserved.
+Copyright (C) Kais Dukes, 2009-2018. All rights reserved.
 
 No permission is granted to copy, distribute, or create derivative
 works from the contents of this project in any form, in whole or
